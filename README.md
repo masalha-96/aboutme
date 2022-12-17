@@ -24,4 +24,4 @@
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=masalha-96&" alt="masalha-96" /></p>
 
 
-<p>&nbsp;<img align="left" display="flex" src="https://github-readme-stats.vercel.app/api?username=masalha-96&show_icons=true&locale=en" alt="masalha-96" /></p>
+<!-- <p>&nbsp;<img align="left" display="flex" src="https://github-readme-stats.vercel.app/api?username=masalha-96&show_icons=true&locale=en" alt="masalha-96" /></p> -->

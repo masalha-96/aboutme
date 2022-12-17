@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> </p>
+<p align="right"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> </p>
 <h1 align="center">Hi 👋, I'm @Sohaib Msalha</h1>
 <h3 align="center">A passionate System Administrator from 🇯🇴</h3>
 <p align="left"> <a href="https://twitter.com/" target="blank"> <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
